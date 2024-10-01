@@ -9,7 +9,7 @@ Pclass: Passenger class (1st, 2nd, 3rd)
 
 Sex: Gender of the passenger
 
-Age: Age of the passenger
+Age: Age of the passenger.
 
 Fare: Amount paid for the ticket
 
