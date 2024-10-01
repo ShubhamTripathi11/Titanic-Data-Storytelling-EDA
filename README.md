@@ -1,1 +1,2 @@
 # Titanic-Data-Storytelling-EDA
+This repository contains an in-depth Exploratory Data Analysis (EDA) on the famous Titanic dataset. The project aims to uncover insights into the factors that influenced passengers' survival chances during the Titanic disaster. Through data cleaning, feature analysis, and a variety of visualizations, we explore the relationships between survival and key factors such as gender, age, ticket class, fare, and more.
